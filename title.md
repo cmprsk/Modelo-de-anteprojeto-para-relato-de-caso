@@ -1,1 +1,1 @@
-Double click to edit the title
+Modelo de anteprojeto para relato de caso
