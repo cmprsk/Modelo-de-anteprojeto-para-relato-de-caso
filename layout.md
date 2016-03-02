@@ -15,7 +15,7 @@ Procedimentos_Os_participantes_ser_o__.md
 link_text_link_url_Interven_o__.md
 An_lise_estat_stica_dos__.md
 5_7_Tamanho_da_amostra__.md
-6_Cronograma_de_execu_o__.md
+Cronograma_de_execu_o_do__.md
 7_Recursos_dispon_veis_Este__.md
 8_Or_amento_As_previs__.md
 9_Ressarcimento_e_desist_ncia__.md
