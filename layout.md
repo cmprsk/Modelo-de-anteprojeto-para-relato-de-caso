@@ -7,3 +7,4 @@ Anteprojeto_para_Pesquisa_em_Cancerologia__.md
 2_Apresenta_o_do_problema__.md
 3_Justificativa_Baseado_na_introdu__.md
 4_Objetivos_4_1_Objetivo__.md
+4_2_Objetivos_secund_rios__.md
