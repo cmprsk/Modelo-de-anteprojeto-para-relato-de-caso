@@ -1,4 +1,4 @@
-## 7.Recursos disponíveis
+## Recursos disponíveis
 
 Este estudo está sendo proposto pelo em colaboração com o Grupo de
 Pesquisa em Farmacologia Vascular e Endotelial da Universidade Federal
