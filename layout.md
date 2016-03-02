@@ -10,7 +10,7 @@ Objetivos_Objetivo_principal_Colher_informa__.md
 Objetivos_secund_rios_Anotar_as__.md
 Metodologia_Caracteriza_o_da_pesquisa__.md
 Local_e_participantes_A_pesquisa__.md
-5_3_Crit_rios_de__.md
+Crit_rios_de_inclus_o__.md
 5_4_Procedimentos_Os_participantes__.md
 5_5_Interven_o__.md
 5_6_An_lise_estat__.md
