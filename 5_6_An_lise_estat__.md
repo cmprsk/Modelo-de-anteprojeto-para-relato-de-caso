@@ -1,4 +1,4 @@
-### 5.6.Análise estatística dos resultados: 
+### Análise estatística dos resultados: 
 
 
 
