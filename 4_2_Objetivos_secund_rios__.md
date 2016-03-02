@@ -1,4 +1,4 @@
-### 4.2.Objetivos secundários:
+### Objetivos secundários:
 
 Anotar as bases para o diagnóstico da [patologia] no[s] caso[s] presentemente avaliado[s].
 
