@@ -13,7 +13,7 @@ Local_e_participantes_A_pesquisa__.md
 Crit_rios_de_inclus_o__.md
 Procedimentos_Os_participantes_ser_o__.md
 link_text_link_url_Interven_o__.md
-5_6_An_lise_estat__.md
+An_lise_estat_stica_dos__.md
 5_7_Tamanho_da_amostra__.md
 6_Cronograma_de_execu_o__.md
 7_Recursos_dispon_veis_Este__.md
