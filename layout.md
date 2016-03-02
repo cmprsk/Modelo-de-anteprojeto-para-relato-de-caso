@@ -7,7 +7,7 @@ Anteprojeto_para_Pesquisa_em_Cancerologia__.md
 Apresenta_o_do_problema_e__.md
 Justificativa_Baseado_na_introdu_o__.md
 Objetivos_Objetivo_principal_Colher_informa__.md
-4_2_Objetivos_secund_rios__.md
+Objetivos_secund_rios_Anotar_as__.md
 5_Metodologia_5_1_Caracteriza__.md
 5_2_Local_e_participantes__.md
 5_3_Crit_rios_de__.md
