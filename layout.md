@@ -6,7 +6,7 @@ SUMMARY_Summary_of_the_project__.md
 Anteprojeto_para_Pesquisa_em_Cancerologia__.md
 2_Apresenta_o_do_problema__.md
 3_Justificativa_Baseado_na_introdu__.md
-4_Objetivos_Objetivo_principal_Colher__.md
+Objetivos_Objetivo_principal_Colher_informa__.md
 4_2_Objetivos_secund_rios__.md
 5_Metodologia_5_1_Caracteriza__.md
 5_2_Local_e_participantes__.md
