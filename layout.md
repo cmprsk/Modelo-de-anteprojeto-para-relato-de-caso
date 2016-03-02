@@ -8,7 +8,7 @@ Apresenta_o_do_problema_e__.md
 Justificativa_Baseado_na_introdu_o__.md
 Objetivos_Objetivo_principal_Colher_informa__.md
 Objetivos_secund_rios_Anotar_as__.md
-5_Metodologia_5_1_Caracteriza__.md
+Metodologia_Caracteriza_o_da_pesquisa__.md
 5_2_Local_e_participantes__.md
 5_3_Crit_rios_de__.md
 5_4_Procedimentos_Os_participantes__.md
