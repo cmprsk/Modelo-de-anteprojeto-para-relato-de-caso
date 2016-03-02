@@ -10,3 +10,4 @@ Anteprojeto_para_Pesquisa_em_Cancerologia__.md
 4_2_Objetivos_secund_rios__.md
 5_Metodologia_5_1_Caracteriza__.md
 5_2_Local_e_participantes__.md
+5_3_Crit_rios_de__.md
