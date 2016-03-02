@@ -1,4 +1,4 @@
-## 8.Orçamento
+## Orçamento
 
 As previsões de custos orçadas abaixo são preliminares. O pesquisador
 principal, coordenador do projeto, é funcionário da Secretaria de Saúde
