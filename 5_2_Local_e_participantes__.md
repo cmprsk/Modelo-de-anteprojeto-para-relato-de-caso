@@ -1,4 +1,4 @@
-###5.2.Local e participantes:
+### Local e participantes:
 
 A pesquisa será desenvolvida no Hospital Infantil Albert Sabin e em seu
 anexo Centro Pediátrico do Câncer, especialmente no setor de atendimento
