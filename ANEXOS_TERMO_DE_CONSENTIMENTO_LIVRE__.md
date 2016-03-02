@@ -7,8 +7,7 @@
 **APRESENTAÇÃO**: Este termo de consentimento pode apresentar palavras
 ou frases não conhecidas para o Senhor(a). Caso isso aconteça, por
 favor, diga - nos para que possamos esclarecer melhor suas dúvidas. Esta
-pesquisa é sobre o uso do remédio ácido valpróico junto com
-quimioterapia e radioterapia em crianças com tumores cerebrais e está
+pesquisa é sobre a patologia de seu [sua] filho[a] e está
 sendo desenvolvida por Francisco Hélder Cavalcante Félix, médico
 pediatra do Centro Pediátrico do Câncer do Hospital Infantil Albert
 Sabin.
