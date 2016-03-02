@@ -11,7 +11,7 @@ Objetivos_secund_rios_Anotar_as__.md
 Metodologia_Caracteriza_o_da_pesquisa__.md
 Local_e_participantes_A_pesquisa__.md
 Crit_rios_de_inclus_o__.md
-5_4_Procedimentos_Os_participantes__.md
+Procedimentos_Os_participantes_ser_o__.md
 5_5_Interven_o__.md
 5_6_An_lise_estat__.md
 5_7_Tamanho_da_amostra__.md
