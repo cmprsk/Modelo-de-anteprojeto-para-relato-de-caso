@@ -1,4 +1,4 @@
-## 4.Objetivos
+## Objetivos
 
 ### Objetivo principal: 
 
