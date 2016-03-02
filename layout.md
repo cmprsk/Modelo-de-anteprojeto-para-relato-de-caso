@@ -18,3 +18,4 @@ Anteprojeto_para_Pesquisa_em_Cancerologia__.md
 6_Cronograma_de_execu_o__.md
 7_Recursos_dispon_veis_Este__.md
 8_Or_amento_As_previs__.md
+9_Ressarcimento_e_desist_ncia__.md
