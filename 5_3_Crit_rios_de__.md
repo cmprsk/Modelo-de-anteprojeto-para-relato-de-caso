@@ -1,4 +1,4 @@
-### 5.3.Critérios de inclusão e exclusão: 
+### Critérios de inclusão e exclusão: 
 
 #### Critérios de inclusão.
 
