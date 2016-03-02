@@ -432,7 +432,6 @@ progressão e sobrevida global.
 
 Data: 21/05/2014
 
-![](https://github.com/cmprsk/valkyrie/blob/master/project/files/Anteprojeto_VALQUIRIA_HIAS.pages/Data/image6-14.png)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -465,7 +464,6 @@ terão acesso ao medicamento findo o projeto.
 
 Fortaleza, 21 de Maio de 2014
 
-![](https://github.com/cmprsk/valkyrie/blob/master/project/files/Anteprojeto_VALQUIRIA_HIAS.pages/Data/image6-14.png)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
