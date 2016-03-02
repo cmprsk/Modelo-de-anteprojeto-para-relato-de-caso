@@ -15,3 +15,4 @@ Anteprojeto_para_Pesquisa_em_Cancerologia__.md
 5_5_Interven_o__.md
 5_6_An_lise_estat__.md
 5_7_Tamanho_da_amostra__.md
+6_Cronograma_de_execu_o__.md
