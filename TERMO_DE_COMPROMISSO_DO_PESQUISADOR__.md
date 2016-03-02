@@ -1,10 +1,7 @@
 ## TERMO DE COMPROMISSO DO PESQUISADOR
 
 Eu, Francisco Hélder Cavalcante Félix, RG 992166988, pesquisador (a)
-responsável do projeto de pesquisa intitulado “Ensaio Fase IIa (prova de
-conceito) de Ácido **Val**próico com **Qui**mioterapia e
-**R**adioterapia para Pacientes com Glioma **I**ntrínseco Difuso de
-Ponte na Infância e **A**dolescência - VALQUIRIA”, declaro conhecer a
+responsável do projeto de pesquisa intitulado [nome do projeto], declaro conhecer a
 Resolução do MS/CNS - 466/12 e suas complementares e comprometo-me a
 seguir todas as suas normas e orientações, bem como, dar conhecimento
 delas e exigir a co-responsabilidade de todos os outros participantes.
