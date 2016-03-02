@@ -16,7 +16,7 @@ link_text_link_url_Interven_o__.md
 An_lise_estat_stica_dos__.md
 5_7_Tamanho_da_amostra__.md
 Cronograma_de_execu_o_do__.md
-7_Recursos_dispon_veis_Este__.md
+Recursos_dispon_veis_Este_estudo__.md
 8_Or_amento_As_previs__.md
 9_Ressarcimento_e_desist_ncia__.md
 10_Refer_ncias_Bibliogr_ficas__.md
