@@ -1,5 +1,5 @@
-## 6.Cronograma de execução do projeto
-   | **ANO 1** |  **ANO 2** |  **ANO 3** |  **ANO 4**
+## Cronograma de execução do projeto
+   | **Mês 1** |  **Mês 2** |  **Mês 3** |  **Mês 4**
   ---- | :------ | :----------: | :---------- | :--------:
   Submissão do Estudo à apreciação do Comitê de Ética e Pesquisa do HIAS.  | X         |        |          |    
   Planejamento   |     X    X     |        |           |    
