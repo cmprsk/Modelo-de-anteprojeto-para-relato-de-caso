@@ -441,7 +441,6 @@ Assinatura do Pesquisador Responsável / orientador
 
 ## Autorização do chefe de serviço
 
-![](https://github.com/cmprsk/valkyrie/blob/master/project/AUTORIZA1.png)
 
 ----
 
