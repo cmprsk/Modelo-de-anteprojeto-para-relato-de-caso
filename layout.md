@@ -17,7 +17,7 @@ An_lise_estat_stica_dos__.md
 5_7_Tamanho_da_amostra__.md
 Cronograma_de_execu_o_do__.md
 Recursos_dispon_veis_Este_estudo__.md
-8_Or_amento_As_previs__.md
+Or_amento_As_previs_es__.md
 9_Ressarcimento_e_desist_ncia__.md
 10_Refer_ncias_Bibliogr_ficas__.md
 ANEXOS_TERMO_DE_CONSENTIMENTO_LIVRE__.md
