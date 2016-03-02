@@ -1,4 +1,4 @@
-### 5.4.Procedimentos
+### Procedimentos
 
 Os participantes serão informados sobre o protocolo de estudo e
 esclarecidos sobre o objetivo do trabalho. Todos os responsáveis legais
