@@ -23,3 +23,4 @@ Anteprojeto_para_Pesquisa_em_Cancerologia__.md
 ANEXOS_TERMO_DE_CONSENTIMENTO_LIVRE__.md
 Termo_de_Consentimento_Publica_o__.md
 DECLARA_O_DE_RISCOS_E__.md
+TERMO_DE_COMPROMISSO_DO_PESQUISADOR__.md
