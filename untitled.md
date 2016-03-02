@@ -45,6 +45,7 @@ pacientes, análise estatística
 
 [Abreviações que ocorrerem várias vezes no texto]
 
+
 ----
 
 # RESUMO
