@@ -1,4 +1,4 @@
-## 9.Ressarcimento e desistência
+## Ressarcimento e desistência
 
 Não será feito nenhum pagamento para participar da pesquisa. A
 participação será de livre e espontânea vontade, não sendo previsto
