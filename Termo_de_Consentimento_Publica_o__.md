@@ -30,7 +30,7 @@ Autor correspondente:
 
 Eu,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\[indicar nome completo\] dou o meu consentimento para publicar esta
+[indicar nome completo] dou o meu consentimento para publicar esta
 informação sobre mim / meu filho OU TUTELADO / MEU PARENTE \[circule a
 descrição correta\] relativa ao assunto acima ("a informação") que
 aparecem no periódico acima identificado e publicações associadas.\*
