@@ -8,11 +8,9 @@ delas e exigir a co-responsabilidade de todos os outros participantes.
 
 Declaro também que o material e/ou dados obtidos serão utilizados
 exclusivamente nesta pesquisa e que os resultados serão tornados
-públicos, sejam eles favoráveis ou não. Declaro, também que, caso
-demonstre-se claro benefício e segurança do tratamento, os pacientes
-terão acesso ao medicamento findo o projeto.
+públicos, sejam eles favoráveis ou não. 
 
-Fortaleza, 21 de Maio de 2014
+Fortaleza, \_\_ de \_\_\_\_ de \_\_\_\_
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
