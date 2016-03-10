@@ -2,16 +2,16 @@
 
 A pesquisa será desenvolvida no Hospital Infantil Albert Sabin e em seu
 anexo Centro Pediátrico do Câncer, especialmente no setor de atendimento
-ambulatorial do CPC, na enfermaria do CPC e na UTIP do CPC. Pacientes em
-outros setores do hospital podem ser recrutados, mas preferencialmente
-serão transferidos para as unidades citadas. Será utilizada amostragem
+ambulatorial do CPC, na enfermaria do CPC e na UTIP do CPC. Paciente(s) em
+outros setores do hospital pode(m) ser recrutado(s), mas preferencialmente
+será(ão) transferido(s) para as unidades citadas. Será utilizada amostragem
 por acessibilidade, onde, conforme Gil (2008),
 > “... o pesquisador
 > seleciona os elementos a que tem acesso, admitindo que estes possam de
 > alguma forma, representar o universo”. 
 
 A amostra será constituída por
-pacientes diagnosticados por demanda espontânea.
+paciente(s) diagnosticado(s) por demanda espontânea.
 
 O Hospital Infantil Albert Sabin (HIAS) é uma instituição hospitalar da
 administração direta da saúde da Secretaria de Saúde do Estado do Ceará,
