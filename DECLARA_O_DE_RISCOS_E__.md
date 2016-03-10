@@ -10,11 +10,10 @@ Francisco Hélder Cavalcante Félix
 
 ### Especificação dos riscos envolvidos:
 
-
+O projeto não incorrerá em riscos para o(s) paciente(s). 
 ### Especificação dos benefícios envolvidos:
 
-Melhora da resposta radiológica, prolongamento da sobrevida livre de
-progressão e sobrevida global.
+Melhor conhecimento sobre a patologia, o que pode subsidiar o desenvolvimento de um cuidado mais adequado.
 
 Data: 21/05/2014
 
