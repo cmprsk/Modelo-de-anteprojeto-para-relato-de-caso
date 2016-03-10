@@ -4,10 +4,7 @@ As previsões de custos orçadas abaixo são preliminares. O pesquisador
 principal, coordenador do projeto, é funcionário da Secretaria de Saúde
 do Estado do Ceará, lotado no Hospital Infantil Albert Sabin, cargo de
 médico (especialidade pediatria/cancerologia), desde maio de 2008. Ele
-não receberá remuneração específica pelo projeto. A outra pesquisadora é
-funcionária da Universidade Federal do Ceará, cargo de Professora
-Adjunta I, no Departamento de Farmácia, e também não receberá
-remuneração específica pelo projeto.
+não receberá remuneração específica pelo projeto. 
 
   **Material**    | **Quantidade**  | **Valor**
 --- | :---: | ---:
