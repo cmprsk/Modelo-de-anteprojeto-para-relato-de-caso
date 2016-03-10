@@ -8,7 +8,7 @@
 ou frases não conhecidas para o Senhor(a). Caso isso aconteça, por
 favor, diga - nos para que possamos esclarecer melhor suas dúvidas. Esta
 pesquisa é sobre a patologia de seu [sua] filho[a] e está
-sendo desenvolvida por Francisco Hélder Cavalcante Félix, médico
+sendo desenvolvida por Francisco Hélder Cavalcante Félix, médico cancerologista
 pediatra do Centro Pediátrico do Câncer do Hospital Infantil Albert
 Sabin.
 
@@ -22,10 +22,10 @@ tumor, tipo de sangramento, se está com sequelas, entre outras). Após
 isso, o tratamento será iniciado. Solicitamos, além de sua participação
 durante as avaliações, sua autorização para apresentar e publicar os
 resultados deste estudo em eventos e revistas científicas. Por ocasião
-da publicação dos resultados, seu nome será mantido em sigilo.
+da publicação dos resultados, o nome do paciente será mantido em sigilo.
 
 **RISCOS E BENEFÍCIOS**: A pesquisa poderá trazer um grande benefício
-para os pacientes.
+para os pacientes, aumentando o conhecimento sobre essa patologia.
 
 **RESSARCIMENTO**: Não será feito nenhum pagamento para participar da
 pesquisa. A participação será de livre e espontânea vontade e, portanto,
@@ -33,7 +33,7 @@ não está previsto ressarcimento. Qualquer um pode desistir em qualquer
 momento de participar da pesquisa sem nenhuma penalidade.
 
 **CONFIDENCIALIDADE DA PESQUISA**: Os resultados da pesquisa serão
-divulgados sem a identificação e os protocolos serão arquivados por 5
+divulgados sem a identificação dos envolvidos e os protocolos serão arquivados por 5
 anos no Centro Pediátrico do Câncer do HIAS, de acordo com as exigências
 da Resolução nº 466/12 do Conselho Nacional de Saúde que trata sobre a
 bioética.
