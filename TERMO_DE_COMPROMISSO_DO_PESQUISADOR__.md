@@ -10,7 +10,7 @@ Declaro também que o material e/ou dados obtidos serão utilizados
 exclusivamente nesta pesquisa e que os resultados serão tornados
 públicos, sejam eles favoráveis ou não. 
 
-Fortaleza, \_\_ de \_\_\_\_ de \_\_\_\_
+Fortaleza, \_\_ de \_\_\_\_ de \_\_\_\_\_\_
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
