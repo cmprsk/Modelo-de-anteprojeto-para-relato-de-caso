@@ -18,8 +18,7 @@ Sabin.
 
 **PROCEDIMENTOS**: Inicialmente, serão anotadas informações sobre o
 paciente (idade, sexo, escolaridade, entre outras) e seu estado (tipo de
-tumor, tipo de sangramento, se está com sequelas, entre outras). Após
-isso, o tratamento será iniciado. Solicitamos, além de sua participação
+tumor, tipo de sangramento, se está com sequelas, entre outras). Solicitamos, além de sua participação
 durante as avaliações, sua autorização para apresentar e publicar os
 resultados deste estudo em eventos e revistas científicas. Por ocasião
 da publicação dos resultados, o nome do paciente será mantido em sigilo.
