@@ -1,6 +1,6 @@
 # Modelo de anteprojeto para relato de caso
 
-Um modelo simples de anteprojeto de relato de caso ou série de casos com o intuito de ser submetido para apreciação no Comitê de Ética em Pesquisa do Hospital Infantil Albert Sabin. Projeto desenvolvido utilizando as ferramentas de edição on-line de [Authorea](http://authorea.com) e integrado com o Github.
+Um modelo simples de anteprojeto de relato de caso ou série de casos com o intuito de ser submetido para apreciação no Comitê de Ética em Pesquisa do Hospital Infantil Albert Sabin. Projeto desenvolvido utilizando as ferramentas de edição on-line de [Authorea](http://authorea.com) e integrado com o Github. Projeto realizado em markdown. 
 
 ### Responsável: 
 > Francisco Helder Cavalcante Felix,
