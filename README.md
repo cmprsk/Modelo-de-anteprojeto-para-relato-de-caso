@@ -32,3 +32,5 @@ This work is published from:
       content="BR" about="[_:publisher]">
   Brasil</span>.
 </p>
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.49874.svg)](http://dx.doi.org/10.5281/zenodo.49874)
