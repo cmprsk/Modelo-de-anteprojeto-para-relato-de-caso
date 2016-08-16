@@ -34,5 +34,3 @@ This work is published from:
 </p>
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.49874.svg)](http://dx.doi.org/10.5281/zenodo.49874)
-
-f1589bf21a223cfa43aab641360263b83dda5707
